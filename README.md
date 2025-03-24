@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## Servicios 2025
-Luis Pineda Rebolledo
-+569 4214 0575
+Luis Pineda Rebolledo<br/>
++569 4214 0575<br/>
 luis@tallerpineda.cl
 
 ### 1. Servicios Técnicos en Computación
