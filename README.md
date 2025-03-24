@@ -13,24 +13,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Servicios 2025
+## Servicios 2025
 Luis Pineda Rebolledo
 +569 4214 0575
 luis@tallerpineda.cl
 
-Se describe un listado de servicios que pueden ser solicitados para ser realizados de forma remota o por obra con plazo fijo.
-1. Ciberseguridad y Automatización
-•	Automatización de tareas con Python y Jupyter Lab
-•	Supervisión de redes con herramientas como Zabbix 
-•	Administración de hipervisores (VMware ESXi, Proxmox, etc)
-•	Administración y manejo de plataformas SaaS y PaaS (Odoo, Shopify, etc)
+### 1. Servicios Técnicos en Computación
+-	Formateo e instalación de sistemas operativos (Windows, Linux, macOS.)
+-	Configuración de redes y dispositivos compartidos (impresoras, almacenamiento, etc.)
+-	Recuperación de datos y respaldo (discos duros, correos, archivos)
 
-2. Arte, Fotografía, diseño e Impresión
-•	Edición de fotografía digital
-•	Diseño digital (logos, afiches, dossier, revistas, etc)
-•	Diseño y desarrollo de sitios web
+### 2. Ciberseguridad y Automatización
+-	Análisis básico de seguridad en redes domésticas o pequeñas oficinas
+-	Automatización de tareas con Python y Jupyter Lab
+-	Supervisión de redes con herramientas como Zabbix 
+-	Administración de hipervisores (VMware ESXi, Proxmox, etc)
+-	Administración y manejo de plataformas SaaS y PaaS (Odoo, Shopify, etc)
 
-3. Construcción, Arreglos y Mueblería
-•	Ayudante en construcción para obra gruesa y terminaciones (carpintería en madera, fierro, metalcom)
-•	Instalación de cableado de red
+### 3. Arte, Fotografía, diseño e Impresión
+-	Fotografía analógica y digital para retratos o productos
+-	Impresión de arte en papeles de alta calidad
+-	Escaneos y digitalización de negativos, documentos, obras de arte y objetos patrimoniales
+-	Edición de fotografía digital
+-	Diseño digital (logos, afiches, dossier, revistas, etc)
+-	Diseño y desarrollo de sitios web
+
+### 4. Educación y Talleres
+-	Taller de fanzine: autogestión, creación y producción DIY
+-	Introducción a la fotografía análoga
+-	Talleres de color digital e impresión fine art
+-	Talleres de introducción a la computación y seguridad digital
+
+### 5. Construcción, Arreglos y Mueblería
+-	Ayudante en construcción para obra gruesa y terminaciones (carpintería en madera, fierro, metalcom)
+-	Diseño y fabricación de muebles a medida
+-	Pequeñas obras y mejoras del hogar (instalaciones, pintura, arreglos)
+-	Instalación de cableado de red
