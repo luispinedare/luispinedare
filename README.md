@@ -14,15 +14,32 @@ Solid understanding of **TCP/IP networking**, the **OSI model**, and cybersecuri
 
 ---
 
-## 📚 Certifications & Skills
+# 🏅 Certifications
 
-[![Security+ Certified](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=CompTIA&logoColor=white&style=for-the-badge)](#)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=CompTIA&logoColor=white&style=for-the-badge)](#)
+[![IBM Certified](https://img.shields.io/badge/IBM-Data%20Science-0530ad?logo=ibm&logoColor=white&style=for-the-badge)](#)
+
+---
+
+# 🛠️ Technical Skills
+
 [![Python Developer](https://img.shields.io/badge/Python-Developer-yellow?logo=python&logoColor=white&style=for-the-badge)](#)
-[![Azure Cloud](https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge)](#)
-[![Wireshark User](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-306998?logo=wireshark&logoColor=white&style=for-the-badge)](#)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge)](#)
+[![Wireshark Traffic Analysis](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-306998?logo=wireshark&logoColor=white&style=for-the-badge)](#)
+[![pfSense Firewall](https://img.shields.io/badge/pfSense-Firewall-0033A0?logo=pfsense&logoColor=white&style=for-the-badge)](#)
+[![Proxmox Virtualization](https://img.shields.io/badge/Proxmox-Virtualization-ED7D31?logo=proxmox&logoColor=white&style=for-the-badge)](#)
+[![Linux Admin](https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black&style=for-the-badge)](#)
+
+
+[![Linux](https://img.shields.io/badge/Linux-Operating%20System-FCC624?logo=linux&logoColor=black&style=for-the-badge)](#)
+[![SQL Databases](https://img.shields.io/badge/SQL-Database-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](#)
+[![Python Developer](https://img.shields.io/badge/Python-Developer-yellow?logo=python&logoColor=white&style=for-the-badge)](#)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge)](#)
 [![pfSense Firewall](https://img.shields.io/badge/pfSense-Firewall-0033A0?logo=pfsense&logoColor=white&style=for-the-badge)](#)
 [![Proxmox VE](https://img.shields.io/badge/Proxmox-Virtualization-ED7D31?logo=proxmox&logoColor=white&style=for-the-badge)](#)
-[![Linux Admin](https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black&style=for-the-badge)](#)
+[![VMware ESXi](https://img.shields.io/badge/VMware-ESXi-607078?logo=vmware&logoColor=white&style=for-the-badge)](#)
+[![QEMU KVM](https://img.shields.io/badge/QEMU-Virtualization-E60000?logo=qemu&logoColor=white&style=for-the-badge)](#)
+[![Zabbix Monitoring](https://img.shields.io/badge/Zabbix-Monitoring-DC382D?logo=zabbix&logoColor=white&style=for-the-badge)](#)
 
 ---
 
@@ -49,7 +66,8 @@ Solid understanding of **TCP/IP networking**, the **OSI model**, and cybersecuri
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tu-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/luis-pineda-57024923/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-833AB4?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/luispinedare/)
 [![Email](https://img.shields.io/badge/Email-Contact-green?logo=gmail&style=for-the-badge)](mailto:luis@tallerpineda.cl)
 
 ---
