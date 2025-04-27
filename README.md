@@ -29,17 +29,8 @@ Solid understanding of **TCP/IP networking**, the **OSI model**, and cybersecuri
 [![pfSense Firewall](https://img.shields.io/badge/pfSense-Firewall-0033A0?logo=pfsense&logoColor=white&style=for-the-badge)](#)
 [![Proxmox VE](https://img.shields.io/badge/Proxmox-Virtualization-ED7D31?logo=proxmox&logoColor=white&style=for-the-badge)](#)
 [![VMware ESXi](https://img.shields.io/badge/VMware-ESXi-607078?logo=vmware&logoColor=white&style=for-the-badge)](#)
-[![QEMU KVM](https://img.shields.io/badge/QEMU-Virtualization-E60000?logo=qemu&logoColor=white&style=for-the-badge)](#)
 [![Zabbix Monitoring](https://img.shields.io/badge/Zabbix-Monitoring-DC382D?logo=zabbix&logoColor=white&style=for-the-badge)](#)
 [![Linux Admin](https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black&style=for-the-badge)](#)
-
-
-
-
-[![Proxmox VE](https://img.shields.io/badge/Proxmox-Virtualization-ED7D31?logo=proxmox&logoColor=white&style=for-the-badge)](#)
-[![VMware ESXi](https://img.shields.io/badge/VMware-ESXi-607078?logo=vmware&logoColor=white&style=for-the-badge)](#)
-[![QEMU KVM](https://img.shields.io/badge/QEMU-Virtualization-E60000?logo=qemu&logoColor=white&style=for-the-badge)](#)
-[![Zabbix Monitoring](https://img.shields.io/badge/Zabbix-Monitoring-DC382D?logo=zabbix&logoColor=white&style=for-the-badge)](#)
 
 ---
 
