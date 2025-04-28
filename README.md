@@ -16,8 +16,8 @@ Solid understanding of **TCP/IP networking**, the **OSI model**, and cybersecuri
 
 # 🏅 Certifications
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=CompTIA&logoColor=white&style=for-the-badge)](#)
-[![IBM Certified](https://img.shields.io/badge/IBM-Data%20Science-0530ad?logo=ibm&logoColor=white&style=for-the-badge)](#)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=CompTIA&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/0b2b5596-af1d-41d8-bd7e-34e1dc07edf0/linked_in_profile)
+[![IBM Certified](https://img.shields.io/badge/IBM-Data%20Science-0530ad?logo=ibm&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/certificate/XPFAX7JSTCKJ)
 
 ---
 
