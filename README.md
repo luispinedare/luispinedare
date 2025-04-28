@@ -24,9 +24,10 @@ Solid understanding of **TCP/IP networking**, the **OSI model**, and cybersecuri
 # 🛠️ Technical Skills
 
 [![Python Developer](https://img.shields.io/badge/Python-Developer-yellow?logo=python&logoColor=white&style=for-the-badge)](#)
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge)](#)
-[![Wireshark Traffic Analysis](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-306998?logo=wireshark&logoColor=white&style=for-the-badge)](#)
 [![pfSense Firewall](https://img.shields.io/badge/pfSense-Firewall-0033A0?logo=pfsense&logoColor=white&style=for-the-badge)](#)
+![Wazuh SIEM](https://img.shields.io/badge/Wazuh-SIEM-005577?logo=wazuh&logoColor=white&style=for-the-badge)
+[![Wireshark Traffic Analysis](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-306998?logo=wireshark&logoColor=white&style=for-the-badge)](#)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge)](#)
 [![Proxmox VE](https://img.shields.io/badge/Proxmox-Virtualization-ED7D31?logo=proxmox&logoColor=white&style=for-the-badge)](#)
 [![VMware ESXi](https://img.shields.io/badge/VMware-ESXi-607078?logo=vmware&logoColor=white&style=for-the-badge)](#)
 [![Zabbix Monitoring](https://img.shields.io/badge/Zabbix-Monitoring-DC382D?logo=zabbix&logoColor=white&style=for-the-badge)](#)
