@@ -1,62 +1,66 @@
-# Hi there, I'm Luis Pineda! 👋
+# 👋 Hi there, I'm Luis Pineda!
 
-🔹 **Junior Cybersecurity Specialist** | **SOC Analyst Trainee** | **Security+ Certified**  
-🔹 Passionate about Threat Analysis, SIEM Implementation, and Network Security.
+🔹 **Junior Cybersecurity Specialist** | **SOC Analyst Trainee** | **CompTIA Security+ Certified**  
+🔹 Passionate about Threat Analysis, SIEM Deployment, and Secure Application Development.
 
 ---
 
 ## 🛡️ About Me
 
-I'm a cybersecurity enthusiast, certified in **CompTIA Security+**, with hands-on experience in deploying **SIEM** solutions (**Wazuh**), **NIDS** systems (**OwlH**), firewall configurations (**pfSense**), and cloud provisioning with **Azure**.
+I'm a cybersecurity enthusiast certified in **CompTIA Security+**, with hands-on experience deploying **SIEM** solutions (Wazuh), **NIDS** systems (OwlH), and building secure infrastructures with **pfSense** and **Azure**.
 
-Self-taught, creative, and committed to continuous learning.  
-Solid understanding of **TCP/IP networking**, the **OSI model**, and cybersecurity best practices.
+I enjoy working at the intersection of **security**, **programming**, and **network architecture**, always seeking to improve through hands-on labs and creative projects.
+
+- Solid understanding of **TCP/IP networking**, **OSI model**, and **cybersecurity best practices**.
+- Skilled in **Python scripting** for automation, data processing, and basic security analysis.
+- Bilingual: **Spanish** (native) and **English** (advanced technical proficiency).
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=CompTIA&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/0b2b5596-af1d-41d8-bd7e-34e1dc07edf0/linked_in_profile)
 [![IBM Certified](https://img.shields.io/badge/IBM-Data%20Science-0530ad?logo=ibm&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/certificate/XPFAX7JSTCKJ)
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-[![Python Developer](https://img.shields.io/badge/Python-Developer-yellow?logo=python&logoColor=white&style=for-the-badge)](#)
-[![pfSense Firewall](https://img.shields.io/badge/pfSense-Firewall-0033A0?logo=pfsense&logoColor=white&style=for-the-badge)](#)
-![Wazuh SIEM](https://img.shields.io/badge/Wazuh-SIEM-005577?logo=wazuh&logoColor=white&style=for-the-badge)
-[![Wireshark Traffic Analysis](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-306998?logo=wireshark&logoColor=white&style=for-the-badge)](#)
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge)](#)
-[![Proxmox VE](https://img.shields.io/badge/Proxmox-Virtualization-ED7D31?logo=proxmox&logoColor=white&style=for-the-badge)](#)
-[![VMware ESXi](https://img.shields.io/badge/VMware-ESXi-607078?logo=vmware&logoColor=white&style=for-the-badge)](#)
-[![Zabbix Monitoring](https://img.shields.io/badge/Zabbix-Monitoring-DC382D?logo=zabbix&logoColor=white&style=for-the-badge)](#)
-[![Linux Admin](https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black&style=for-the-badge)](#)
-
----
-
-## 🛠️ Technical Stack
-
-- **Operating Systems:** Linux (Debian, RedHat), Windows, macOS
-- **Security Tools:** Wazuh, OwlH NIDS, pfSense, Wireshark, Burp Suite (basic), Zabbix
-- **Programming:** Python (automation, security scripting), Bash, SQL
-- **Virtualization:** Proxmox, VMware ESXi, QEMU/KVM
-- **Cloud Platforms:** Microsoft Azure, Azure AD (Entra ID), Intune
-- **Networking Fundamentals:** TCP/IP, OSI Model, VLANs, Routing, Firewall Rules
+| Category | Skills |
+|:---|:---|
+| **Operating Systems** | Linux (Debian, RedHat), Windows, macOS |
+| **Security Tools** | Wazuh SIEM, OwlH NIDS, pfSense Firewall, Wireshark, Burp Suite (basic), Zabbix Monitoring |
+| **Programming & Scripting** | Python (automation, security scripting), Bash, SQL |
+| **Virtualization** | Proxmox VE, VMware ESXi, QEMU/KVM |
+| **Cloud Platforms** | Microsoft Azure, Azure AD (Entra ID), Intune |
+| **Networking Fundamentals** | TCP/IP, OSI Model, VLANs, Routing, Firewall Rules |
 
 ---
 
-## 🚀 Projects & Labs
+## 🚀 Labs & Projects
 
-- **SIEM Deployment Lab** with Wazuh and pfSense
-- **Network Intrusion Detection Lab** using OwlH and SPAN Ports
-- **Cloud Identity Management** on Azure AD and Intune
-- **Traffic Analysis & Phishing Detection** with Wireshark
-- **Python Scripting Projects** simulating nmap, BiFF functionalities
+| Project | Description |
+|:---|:---|
+| **SIEM Deployment Lab** | Implemented Wazuh + pfSense with SPAN ports for event correlation. |
+| **Network Intrusion Detection Lab** | Deployed OwlH agents for network traffic sniffing and anomaly detection. |
+| **Cloud Identity Management** | Built hybrid cloud device management with Azure AD and Intune. |
+| **Traffic Analysis & Phishing Investigation** | Conducted packet analysis using Wireshark to detect suspicious patterns. |
+| **Python Scripting** | Developed small tools simulating `nmap`, `BiFF`, and basic vulnerability testing. |
+| **Export MySQL to JSON** | Secure script to export MySQL data into dynamic JSON schemas. |
+| **Word and Meaning Search Engine** | PHP tool to query and filter dictionary databases into JSON. |
+| **HTML Tree Builder** | Secure PHP function to build nested HTML structures from array inputs. |
+| **Programmable Timer with RTC** | Arduino project: 4-stage countdown timer with RTC, LED control, and relay output. |
+---
+
+## 🖥️ Portfolio Snapshots
+
+- ⚡ **MySQL Data Tools**: Dynamic export and query scripts for structured datasets.
+- ⚡ **Web Content Builders**: PHP recursive tree generation with XSS protection.
+- ⚡ **Embedded Systems**: Time-based automation projects combining real-time clocks, displays, and relay systems.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/luis-pineda-57024923/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-833AB4?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/luispinedare/)
@@ -64,6 +68,6 @@ Solid understanding of **TCP/IP networking**, the **OSI model**, and cybersecuri
 
 ---
 
-[![Visitors](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat-square)](#)
+[![Visitors](https://komarev.com/ghpvc/?username=luispinedare&label=Profile%20views&color=0e75b6&style=flat-square)](#)
 
 > _"Always learning. Always adapting."_ 🚀
