@@ -45,16 +45,16 @@ I enjoy working at the intersection of **security**, **programming**, and **netw
 
 | Project | Description |
 |:---|:---|
-| **SIEM Deployment Lab** | Implemented Wazuh + pfSense with SPAN ports for event correlation. |
-| **Network Intrusion Detection Lab** | Deployed OwlH agents for network traffic sniffing and anomaly detection. |
-| **Cloud Identity Management** | Built hybrid cloud device management with Azure AD and Intune. |
-| **Traffic Analysis & Phishing Investigation** | Conducted packet analysis using Wireshark to detect suspicious patterns. |
-| **Python Scripting** | Developed small tools simulating `nmap`, `BiFF`, and basic vulnerability testing. |
-| **Export MySQL to JSON** | Secure script to export MySQL data into dynamic JSON schemas. |
-| **Word and Meaning Search Engine** | PHP tool to query and filter dictionary databases into JSON. |
-| **HTML Tree Builder** | Secure PHP function to build nested HTML structures from array inputs. |
-| **Programmable Timer with RTC** | Arduino project: 4-stage countdown timer with RTC, LED control, and relay output. |
-| **OpenAI Data Analysis Labs** | Set of Jupyter Notebooks for automatic analysis of structured data using OpenAI API. Includes prompt-based Markdown reports and Python code execution with widgets. |
+| [**SIEM Deployment Lab**](https://github.com/luispinedare/lab-siem-wazuh) | Implemented Wazuh + pfSense with SPAN ports for event correlation. |
+| [**Network Intrusion Detection Lab**](https://github.com/luispinedare/lab-nids-owlh) | Deployed OwlH agents for network traffic sniffing and anomaly detection. |
+| [**Cloud Identity Management**](https://github.com/luispinedare/lab-cloud-azure) | Built hybrid cloud device management with Azure AD and Intune. |
+| [**Traffic Analysis & Phishing Investigation**](https://github.com/luispinedare/lab-traffic-analysis) | Conducted packet analysis using Wireshark to detect suspicious patterns. |
+| [**Python Scripting Projects**](https://github.com/luispinedare/python-security-tools) | Developed small tools simulating `nmap`, `BiFF`, and basic vulnerability testing. |
+| [**Export MySQL to JSON**](https://github.com/luispinedare/export-mysql-json) | Secure script to export MySQL data into dynamic JSON schemas. |
+| [**Word and Meaning Search Engine**](https://github.com/luispinedare/word-search-engine) | PHP tool to query and filter dictionary databases into JSON. |
+| [**HTML Tree Builder**](https://github.com/luispinedare/html-tree-builder) | Secure PHP function to build nested HTML structures from array inputs. |
+| [**Programmable Timer with RTC**](https://github.com/luispinedare/arduino-timer-rtc) | Arduino project: 4-stage countdown timer with RTC, LED control, and relay output. |
+| [**OpenAI Data Analysis Labs**](https://github.com/luispinedare/analisis-automatizado) | Set of Jupyter Notebooks for automatic analysis of structured data using OpenAI API. Includes prompt-based Markdown reports and Python code execution with widgets. |
 
 ---
 
