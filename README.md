@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Luis Pineda!
 
 🔹 **Junior Cybersecurity Specialist** | **SOC Analyst Trainee** | **CompTIA Security+ Certified**  
-🔹 Passionate about Threat Analysis, SIEM Deployment, and Secure Application Development.
+🔹 Passionate about Threat Analysis, SIEM Deployment, Secure Application Development, and AI-driven data analysis.
 
 ---
 
@@ -9,10 +9,12 @@
 
 I'm a cybersecurity enthusiast certified in **CompTIA Security+**, with hands-on experience deploying **SIEM** solutions (Wazuh), **NIDS** systems (OwlH), and building secure infrastructures with **pfSense** and **Azure**.
 
-I enjoy working at the intersection of **security**, **programming**, and **network architecture**, always seeking to improve through hands-on labs and creative projects.
+I enjoy working at the intersection of **security**, **programming**, and **network architecture**, always seeking to improve through hands-on labs and creative projects. Recently, I’ve also been exploring how **AI and language models** can support data-driven analysis in scientific and civic contexts.
 
 - Solid understanding of **TCP/IP networking**, **OSI model**, and **cybersecurity best practices**.
 - Skilled in **Python scripting** for automation, data processing, and basic security analysis.
+- Proficient in **Jupyter Notebooks** for building reproducible, modular data science workflows.
+- Experience using **OpenAI APIs** for exploratory data analysis and prompt-driven computation.
 - Bilingual: **Spanish** (native) and **English** (advanced technical proficiency).
 
 ---
@@ -30,7 +32,9 @@ I enjoy working at the intersection of **security**, **programming**, and **netw
 |:---|:---|
 | **Operating Systems** | Linux (Debian, RedHat), Windows, macOS |
 | **Security Tools** | Wazuh SIEM, OwlH NIDS, pfSense Firewall, Wireshark, Burp Suite (basic), Zabbix Monitoring |
-| **Programming & Scripting** | Python (automation, security scripting), Bash, SQL |
+| **Programming & Scripting** | Python (automation, security scripting, data analysis), Bash, SQL |
+| **Data Science Tools** | Jupyter Notebooks, Pandas, Seaborn, Matplotlib, Scipy, Ipywidgets |
+| **AI & APIs** | OpenAI API (prompt engineering, Markdown/code generation, assistant automation) |
 | **Virtualization** | Proxmox VE, VMware ESXi, QEMU/KVM |
 | **Cloud Platforms** | Microsoft Azure, Azure AD (Entra ID), Intune |
 | **Networking Fundamentals** | TCP/IP, OSI Model, VLANs, Routing, Firewall Rules |
@@ -50,6 +54,8 @@ I enjoy working at the intersection of **security**, **programming**, and **netw
 | **Word and Meaning Search Engine** | PHP tool to query and filter dictionary databases into JSON. |
 | **HTML Tree Builder** | Secure PHP function to build nested HTML structures from array inputs. |
 | **Programmable Timer with RTC** | Arduino project: 4-stage countdown timer with RTC, LED control, and relay output. |
+| **OpenAI Data Analysis Labs** | Set of Jupyter Notebooks for automatic analysis of structured data using OpenAI API. Includes prompt-based Markdown reports and Python code execution with widgets. |
+
 ---
 
 ## 🖥️ Portfolio Snapshots
@@ -57,6 +63,7 @@ I enjoy working at the intersection of **security**, **programming**, and **netw
 - ⚡ **MySQL Data Tools**: Dynamic export and query scripts for structured datasets.
 - ⚡ **Web Content Builders**: PHP recursive tree generation with XSS protection.
 - ⚡ **Embedded Systems**: Time-based automation projects combining real-time clocks, displays, and relay systems.
+- ⚡ **AI-Driven Analysis Labs**: Interactive notebooks using GPT for data interpretation, code generation, and visual reporting.
 
 ---
 
