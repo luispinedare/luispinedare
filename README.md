@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Luis Pineda!
 
-🔹 **Junior Cybersecurity Specialist** | **SOC Analyst Trainee** | **CompTIA Security+ Certified**  
-🔹 Passionate about Threat Analysis, SIEM Deployment, Secure Application Development, and AI-driven data analysis.
+**Cybersecurity Specialist · CompTIA Security+ · SOC** | **Pentesting** | **Bug Bounty** | **Offensive Automation · Open to global opportunities**  
+Passionate about Threat Analysis, SIEM Deployment, Secure Application Development, and AI-driven data analysis.
 
 ---
 
