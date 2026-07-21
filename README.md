@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Luis Pineda!
+# I'm Luis Pineda
 
 **Security Researcher · CompTIA Security+ · SOC** | **Pentesting** | **AI Engineering · Multi-Agent Systems** | **Offensive Automation · Open to global opportunities**  
 Passionate about Threat Analysis, SIEM Deployment, Secure Application Development, and **AI-driven offensive security**.
