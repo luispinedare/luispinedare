@@ -3,7 +3,8 @@
 **Security Researcher · CompTIA Security+ · SOC** | **Pentesting** | **AI Engineering · Multi-Agent Systems** | **Offensive Automation · Open to global opportunities**  
 Passionate about Threat Analysis, SIEM Deployment, Secure Application Development, and **AI-driven offensive security**.
 
-[`rmw3`](https://github.com/rm-w3kufe)
+rmw3 [`github.com/rm-w3kufe`](https://github.com/rm-w3kufe)
+
 ---
 
 ## 🛡️ About Me
